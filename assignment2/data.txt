@@ -1,0 +1,3 @@
+this is first data which added while creating this file using node 
+ this is second data while appending data into this file using node 
+ this is second data while appending data into this file using node 
